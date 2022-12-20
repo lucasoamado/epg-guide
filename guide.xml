@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FHD">
+    <display-name lang="pt">AMC FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC FHD [ALT]">
+    <display-name lang="pt">AMC FHD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC HD [ALT]">
+    <display-name lang="pt">AMC HD [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="AMC H265">
+    <display-name lang="pt">AMC H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV Rio Preto HD">
+    <display-name lang="pt">RecordTV Rio Preto HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV Rio Preto FHD">
+    <display-name lang="pt">RecordTV Rio Preto FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV">
+    <display-name lang="pt">RecordTV</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV HD">
+    <display-name lang="pt">RecordTV HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="RecordTV FHD">
+    <display-name lang="pt">RecordTV FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EPTV Campinas">
+    <display-name lang="pt">EPTV Campinas</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EPTV Campinas HD">
+    <display-name lang="pt">EPTV Campinas HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="EPTV Campinas FHD">
+    <display-name lang="pt">EPTV Campinas FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP H265">
+    <display-name lang="pt">GLOBO SP H265</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SP HD  [ALT]">
+    <display-name lang="pt">GLOBO SP HD  [ALT]</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP">
+    <display-name lang="pt">Globo SP</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP HD">
+    <display-name lang="pt">Globo SP HD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo SP FHD">
+    <display-name lang="pt">Globo SP FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="GLOBO SJ RIO PRETO FHD">
+    <display-name lang="pt">Globo TV TEM Sao Jose do Rio Preto FHD</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="Globo TV Tem Sao Jose do Rio Preto">
+    <display-name lang="pt">Globo TV Tem Sao Jose do Rio Preto</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TV Globo">
+    <display-name lang="pt">TV Globo</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+</tv>
