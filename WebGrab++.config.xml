@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <!--<license wg-username="your webgrab+plus username" registered-email="your registered email address" password="your license password" />-->
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+	
+	
+	<channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC">AMC</channel>
+	<channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC HD">AMC HD</channel>
+	<channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC FHD">AMC FHD</channel> 
+	<channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC FHD [ALT]">AMC FHD [ALT]</channel>
+	<channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC HD [ALT]">AMC HD [ALT]</channel>
+	<channel update="i" site="meuguia.tv" site_id="MGM" xmltv_id="AMC H265">AMC H265</channel>
+	<channel update="i" site="meuguia.tv" site_id="REC" xmltv_id="RecordTV Rio Preto HD">RecordTV Rio Preto HD</channel>
+	<channel update="i" site="meuguia.tv" site_id="REC" xmltv_id="RecordTV Rio Preto FHD">RecordTV Rio Preto FHD</channel>
+	<channel update="i" site="meuguia.tv" site_id="REC" xmltv_id="RecordTV">RecordTV</channel>
+	<channel update="i" site="meuguia.tv" site_id="REC" xmltv_id="RecordTV HD">RecordTV HD</channel>
+	<channel update="i" site="meuguia.tv" site_id="REC" xmltv_id="RecordTV FHD">RecordTV FHD</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="EPTV Campinas">EPTV Campinas</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="EPTV Campinas HD">EPTV Campinas HD</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="EPTV Campinas FHD">EPTV Campinas FHD</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="GLOBO SP H265">GLOBO SP H265</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="GLOBO SP HD  [ALT]">GLOBO SP HD  [ALT]</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="Globo SP">Globo SP</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="Globo SP HD">Globo SP HD</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="Globo SP FHD">Globo SP FHD</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="GLOBO SJ RIO PRETO FHD">Globo TV TEM São José do Rio Preto FHD</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="Globo TV Tem São José do Rio Preto">Globo TV Tem São José do Rio Preto</channel>
+	<channel update="i" site="meuguia.tv" site_id="GRD" xmltv_id="TV Globo">TV Globo</channel>
+</settings>
